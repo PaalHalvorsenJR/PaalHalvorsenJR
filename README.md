@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! 👋 I'm Paal, a passionate student studying informatics, mathematics, and economics. I aspire to become a full-stack developer and love combining my diverse interests to create exciting projects.
+Hey there! 👋 I'm Paal, a passionate student studying informatics, mathematics, and economics at UIB (University of Bergen). I aspire to become a full-stack developer and love combining my diverse interests to create exciting projects.
 
 ### 🌟 What I Do:
 - Frontend Development
@@ -35,9 +35,10 @@ I work with a variety of programming languages and technologies, including:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
 
 ## Let's Collaborate!
 
 I'm always open to collaboration and new opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or [Twitter](https://twitter.com/your-twitter-handle). Let's create something awesome together! 🚀
-
--->
