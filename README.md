@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! 👋 I'm [Your Name], a passionate student studying informatics, mathematics, and economics. I aspire to become a full-stack developer and love combining my diverse interests to create exciting projects.
+Hey there! 👋 I'm Paal, a passionate student studying informatics, mathematics, and economics. I aspire to become a full-stack developer and love combining my diverse interests to create exciting projects.
 
 ### 🌟 What I Do:
 - Frontend Development
